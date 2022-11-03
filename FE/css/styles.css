@@ -1,0 +1,66 @@
+*{
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.centerlogo {
+  background: #E6E6E6;
+  text-align: center;
+}
+.title {
+  background: #C4C4C4;
+  padding: .5rem;
+  text-align: center;
+  color: #005677;
+}
+.title h1 {
+  font-weight: 400;
+}
+.sectionmain {
+  margin: 4rem 0 0 0;
+}
+.subtitle {
+  text-align: left;
+  background-color: #C4C4C4;
+  line-height: 17px;
+  padding: .3rem;
+}
+.subtitle h3 {
+  font-size: 20px;
+  font-weight: 200;
+  letter-spacing: 0em;
+  color: #005677;
+}
+ul {
+  padding: 1rem 0;
+}
+ul li {
+  text-indent: 1.5rem;
+}
+li span {
+  padding-left: 1.5rem;
+}
+.boxcontainer {
+  padding: .5rem;
+  display: flex;
+  flex-direction: row;
+}
+.boxinnercontainer {
+  display: flex;
+  flex-direction: column;
+  padding-left: .5rem;
+}
+footer {
+  background: #005677;
+  color: #ffffff;
+  padding: .5rem 0;
+}
+.boxfootercontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.boxfootercontainer p, i {
+  padding-left: 0.5rem;
+}
