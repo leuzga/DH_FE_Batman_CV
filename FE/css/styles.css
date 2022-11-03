@@ -7,6 +7,9 @@
   background: #E6E6E6;
   text-align: center;
 }
+.imgproperties {
+  width: 15%;
+}
 .title {
   background: #C4C4C4;
   padding: .5rem;
